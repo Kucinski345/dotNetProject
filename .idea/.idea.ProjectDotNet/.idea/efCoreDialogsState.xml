@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:4aa59231-25b0-4048-8f7e-575bbff03a1c:dbContext" value="ScrumApp.MVVM.Model.ScrumDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:enableDiagnosticLogging" value="false" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>

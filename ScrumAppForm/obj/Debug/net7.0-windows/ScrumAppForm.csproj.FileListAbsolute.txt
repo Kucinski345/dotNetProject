@@ -1,0 +1,770 @@
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\admin\Desktop\ProjectDotNet — kopia\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\R4V3N\Desktop\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.baml
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.g.cs
+C:\Users\admin\Desktop\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.baml
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\R4V3N\Desktop\.NET\04012024\ProjectDotNet\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.baml
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\admin\Desktop\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.baml
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\R4V3N\Desktop\.NET\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.baml
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\admin\Desktop\najonowszePoprawne\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.baml
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\R4V3N\Desktop\.NET\08012024\06012024\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.exe
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.deps.json
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.runtimeconfig.json
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\MVVMEssentials.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\CustomComboBox.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundButton.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundPasswordBoxStyle.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\RoundTextBoxStyle.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.cache
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm_MarkupCompile.lref
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\App.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\AboutUsView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageProjectsView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageTasksView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ManageUsersView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\MembersView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\ProjectsWindow.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\RegisterView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskListingView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\TaskView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\MVVM\View\UserListingView.baml
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.g.resources
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.AssemblyInfo.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.csproj.CopyComplete
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\refint\ScrumAppForm.dll
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.pdb
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ScrumAppForm.genruntimeconfig.cache
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\ref\ScrumAppForm.dll

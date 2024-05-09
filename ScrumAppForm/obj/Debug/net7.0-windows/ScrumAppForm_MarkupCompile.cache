@@ -1,0 +1,20 @@
+﻿ScrumAppForm
+
+
+winexe
+C#
+.cs
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\obj\Debug\net7.0-windows\
+NavigationTutorial
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\admin\Desktop\dot net ostatni wersja\FinalVersion\FinalVersion\ProjectDotNet\ScrumAppForm\App.xaml
+19-1692254641
+
+66-688482090
+219-1297484130
+MVVM\View\AboutUsView.xaml;MVVM\View\HomeView.xaml;MVVM\View\MainWindow.xaml;MVVM\View\ManageProjectsView.xaml;MVVM\View\ManageTasksView.xaml;MVVM\View\ManageUsersView.xaml;MVVM\View\MembersView.xaml;MVVM\View\ProjectsView.xaml;MVVM\View\ProjectsWindow.xaml;MVVM\View\RegisterView.xaml;MVVM\View\TaskListingView.xaml;MVVM\View\TaskView.xaml;MVVM\View\UserListingView.xaml;Theme\CustomComboBox.xaml;Theme\MenuButtonTheme.xaml;Theme\RoundButton.xaml;Theme\RoundPasswordBoxStyle.xaml;Theme\RoundTextBoxStyle.xaml;Theme\TextBoxTheme.xaml;
+
+False
+
